@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ##Project Example :
 
-- [Design: Mobile Design App](https://www.freepik.com/free-vector/gradient-dark-mode-app-template_45198534.htm#query=mobile%20travel%20app%20design&position=10&from_view=search&track=ais)
+- [Design: Mobile Design App](https://www.freepik.com/free-vector/gradient-dark-mode-app-template_45198538.htm#from_view=detail_serie)
